@@ -1,0 +1,11 @@
+Registro de Proceso:
+
+
+@abi 
+    -Creacion de carpeta MyApp
+    -Inicializacion del Comando npm init para crear archivo package.json (Terminal integrada de la carpeta MyApp) 
+    -Creacion de archivo index.js
+    -Instalacion de la Dependencia: Express (npm install express) {22 enero, 10:05}
+    -Crecaion del archivo .gitignore para bloquear node_modules (Ya que esto genera una gran cantidad de cambios al codigo(+ 500s) que se registra como commits)
+
+    
