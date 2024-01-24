@@ -1,0 +1,30 @@
+
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+  
+
+.Home-Banner {
+    display: grid;
+    grid-template-columns: 2fr 1fr; 
+    grid-template-rows: 1fr; 
+    margin-top: 20%;
+  }
+  
+.Image-Container {
+    grid-column: 1;
+  }
+  
+  .Image-Container img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+  .Text-Container {
+    grid-column: 2;
+    justify-self: center;
+    align-self: center;
+  }
