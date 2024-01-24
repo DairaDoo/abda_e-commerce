@@ -1,12 +1,17 @@
-
-
-
 body, html {
     margin: 0;
     padding: 0;
 }
-  
 
+
+/* Seccion de: NavBar */
+
+
+/* Cierre de seccion de Navbar */
+
+
+
+/* Seccion de Banner */
 .Home-Banner {
     display: grid;
     grid-template-columns: 2fr 1fr; 
@@ -28,3 +33,11 @@ body, html {
     justify-self: center;
     align-self: center;
   }
+
+  /* Falta Estilar Font e Imagen*/
+
+/* Cierre de Seccion de Banner */
+
+/* Seccion de Listado de Productos */
+
+/* Cierre de Seccion de Listado de Productos */

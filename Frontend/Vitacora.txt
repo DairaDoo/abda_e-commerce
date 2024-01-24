@@ -5,3 +5,5 @@ Registrar Proceso:
 
 @abi: 
     Acomode un prototipo para el Banner. {23 de enero, 9:09pm}
+
+    Organice el espacio para estilar respecto a su seccion. {23 de enero, 9:40pm}
