@@ -29,9 +29,11 @@ body, html {
   }
   
   .Text-Container {
+    font-family: "Shadows Into Light";
     grid-column: 2;
     justify-self: center;
     align-self: center;
+    font-size: 2.5vw;
   }
 
   /* Falta Estilar Font e Imagen*/
