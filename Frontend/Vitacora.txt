@@ -7,3 +7,6 @@ Registrar Proceso:
     Acomode un prototipo para el Banner. {23 de enero, 9:09pm}
 
     Organice el espacio para estilar respecto a su seccion. {23 de enero, 9:40pm}
+    Estructure la seccion para organizar los productos, falta probar con imagenes y descripcion de Producto. {23 de enero, 10:10m}
+----
+

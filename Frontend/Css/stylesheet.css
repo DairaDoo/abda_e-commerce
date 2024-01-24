@@ -40,4 +40,24 @@ body, html {
 
 /* Seccion de Listado de Productos */
 
+
+.Product-Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.Product-Item{
+
+}
+
+.Product-Item img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Cierre de Seccion de Listado de Productos */
