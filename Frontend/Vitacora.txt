@@ -1,10 +1,9 @@
 Registrar Proceso:
 
 @abi: Estructure las carpetas iniciales para el proyecto. {22 de enero, 10:00 pm}
+@BrianMorales98: Se creo HTML y CSS para disenar y crear pagina Login (22/01/24)
 
-@Brian: Se creo HTML y CSS para disenar y crear pagina Login (22/01/24)
-=======
------
+@BrianMorales98: Se creo HTML y CSS para disenar y crear pagina Login 
 
 @abi: 
     Acomode un prototipo para el Banner. {23 de enero, 9:09pm}
