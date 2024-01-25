@@ -1,6 +1,9 @@
 Registrar Proceso:
 
 @abi: Estructure las carpetas iniciales para el proyecto. {22 de enero, 10:00 pm}
+
+@Brian: Se creo HTML y CSS para disenar y crear pagina Login (22/01/24)
+=======
 -----
 
 @abi: 
@@ -9,4 +12,6 @@ Registrar Proceso:
     Organice el espacio para estilar respecto a su seccion. {23 de enero, 9:40pm}
     Estructure la seccion para organizar los productos, falta probar con imagenes y descripcion de Producto. {23 de enero, 10:10m}
 ----
+@Brian: Estilice detalles y iconos del Login,renombre algunos tags y arregle errores que hacian que no se reflejara unos cambios de colores en el area del Remember checbox.
+
 

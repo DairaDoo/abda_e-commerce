@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(233, 238, 233);
+ 
+     }
+     .wrapper{
+        width: 420px;
+        background-color:rgba(90, 85, 85, 0.822);
+        border-radius:10px; 
+        padding: 30px 40px;
+     }
+     .wrapper h1{
+        font-size: 36px;
+        text-align: center;
+        color: #fff;
+     }
+     .wrapper h2{
+        text-align: center;
+        color: #fff;
+     }
+     .wrapper .input-box{
+        position: relative;
+        width: 100%;
+        height: 50px;
+        margin: 30px 0;
+
+     }
+
+    .input-box input{
+        width: 100%;
+        height: 100%;
+        background: transparent;
+        border: none;
+        outline: none;
+        border: 2px solid rgb(83, 83, 83);
+        border-radius: 30px;
+        font-size: 16px;
+        color: rgba(255, 255, 255, 0.952);
+        padding: 20px 45px 20px 20px;
+        
+    }
+.input-box input::placeholder{
+    color: rgb(254, 255, 255);
+}
+    .input-box i{
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 20px;
+        color: #fff;
+    }
+    .wrapper .rememberme-checkbox{
+        display: flex;
+        justify-content: space-between;
+        font-size: 14.5px;
+        margin: -15px o 15px;
+        color: #fff;
+    }
+    .rememberme-checkbox label input{
+        accent-color: #fff;
+        margin-right: 3px;
+        color: #fff;
+
+    }
+    .rememberme-checkbox a{
+        color: hsl(0, 17%, 92%);
+        text-decoration: none;
+    }
+    .rememberme-checkbox a:hover{
+        text-decoration: underline;
+    }
+    .wrapper .button{
+        width: 100%;
+        height:45px;
+        background: #fff;
+        border: none;
+        outline: none;
+        border-radius: 40px;
+        font-size: 16px; 
+        color:#797777;
+        font-weight: 600;
+
+   }
+   .wrapper .register-link{
+     font-size:14.5px;
+     text-align: center;
+    margin-top: 20px;
+}
+.register-link p a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+.register-link p a:hover{
+text-decoration: underline;
+
+}
+
