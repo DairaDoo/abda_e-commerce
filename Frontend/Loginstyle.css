@@ -21,9 +21,11 @@ body{
      .wrapper h1{
         font-size: 36px;
         text-align: center;
+        color: #fff;
      }
      .wrapper h2{
         text-align: center;
+        color: #fff;
      }
      .wrapper .input-box{
         position: relative;
@@ -42,7 +44,7 @@ body{
         border: 2px solid rgb(83, 83, 83);
         border-radius: 30px;
         font-size: 16px;
-        color: rgba(6, 7, 8, 0.952);
+        color: rgba(255, 255, 255, 0.952);
         padding: 20px 45px 20px 20px;
         
     }
@@ -55,16 +57,19 @@ body{
         top: 50%;
         transform: translateY(-50%);
         font-size: 20px;
+        color: #fff;
     }
     .wrapper .rememberme-checkbox{
         display: flex;
         justify-content: space-between;
         font-size: 14.5px;
         margin: -15px o 15px;
+        color: #fff;
     }
     .rememberme-checkbox label input{
         accent-color: #fff;
         margin-right: 3px;
+        color: #fff;
 
     }
     .rememberme-checkbox a{

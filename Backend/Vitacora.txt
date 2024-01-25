@@ -8,5 +8,10 @@ Registro de Proceso:
     -Instalacion de la Dependencia: Express (npm install express) 
     -Crecaion del archivo .gitignore para bloquear node_modules (Ya que esto genera una gran cantidad de cambios al codigo(+ 500s) que se registra como commits) {22 enero, 10:05}
 
-    -Inicializacion de Express (Se puede correr el servidor con el comando: ) {22 enero, 10:30 pm}
+    -Inicializacion de Express (Se puede correr el servidor con el comando: npm start, desde el directorio my app ) {22 enero, 10:30 pm}
+------
+@abi 
+    -Comando para iniciar el servidor express 
+    -Entiendo que deben inicializar node, para obtener los node_modules que se excluyeron del git {23 de enero, 5:40 pm}
+
 
