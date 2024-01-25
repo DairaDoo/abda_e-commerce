@@ -1,0 +1,64 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Seccion de: NavBar */
+
+
+/* Cierre de seccion de Navbar */
+
+
+
+/* Seccion de Banner */
+.Home-Banner {
+    display: grid;
+    grid-template-columns: 2fr 1fr; 
+    grid-template-rows: 1fr; 
+    margin-top: 20%;
+  }
+  
+.Image-Container {
+    grid-column: 1;
+  }
+  
+  .Image-Container img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+  .Text-Container {
+    grid-column: 2;
+    justify-self: center;
+    align-self: center;
+  }
+
+  /* Falta Estilar Font e Imagen*/
+
+/* Cierre de Seccion de Banner */
+
+/* Seccion de Listado de Productos */
+
+
+.Product-Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+
+.Product-Item{
+  margin: 5%
+}
+
+.Product-Item img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Cierre de Seccion de Listado de Productos */
